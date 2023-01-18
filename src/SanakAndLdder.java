@@ -13,6 +13,7 @@ public class SanakAndLdder {
         static String POSITION;
         static int diceNumber;
         static int checkOption;
+
         static Random random = new Random();
         int currentPosition = 0;
         /*
